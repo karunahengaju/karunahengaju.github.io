@@ -5,6 +5,8 @@
       value: Karuna Hengaju
     - name: Languages
       value: English, Nepali, Hindi, Newari
+    - name: Skills
+      value: Excel, Office, Powerpoint, Google Suite, Canva, Tableu, SQL 
 
 - title: Education
   type: time_table
@@ -13,89 +15,81 @@
       institution: Boise State University
       year: May 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - 3.92 GPA
     - title: MA, Public Administration
       institution: Tribhuvan University
       year: March,2021
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis:"Study on Motivation in International and Domestic Sales Units of Nepal Airlines Corporation"
+        - 3.52 GPA
     - title: BSc, Microbiology
       institution: Tribhuvan University
       year: March,2021
       description:
-        - Description 1.
-        - Description 2.
+        - First Division
 
 - title: Experience
   type: time_table
   contents:
     - title: Office Assistant
-      institution: Nepal Airlines
-      year: 1933 - 1955
+      institution: Nepal Airlines Corporation, Nepal
+      year: Dexember 2018 - June 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: General Service and Property Management Department
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Managed employee attendance reconciliation
+            - Oversaw inventory logistics for national and international stations
+            - Coordinated inventory management and purchasing processes
+        - title: Commercial Department
+          contents:
+            - Managed domestic and international ticket issuance
+            - Provided multi-channel customer support
+            - Specialized in documentation and processing for cancer patient passengers
+
+    - title: Deputy Manager (Part-time)
+      institution: Kamal Binayak Cooperatives Ltd, Bhaktapur
+      year: May 2021 - August 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Led social event planning to boost community engagement
+        - Conducted regular organizational reviews for continuous improvements
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Leadership and Involvement
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Marketing and Promotion Officer
+      institution: Nepalese Student Association at BSU
+      year: August 2023-now
+      description: Increased Nepalese Students Association event attendance at Boise State University through targeted social media marketing and event planning and decoration coordinator.
+    - title: Volunteer
+      institution: Women's and Children's Association
+      year: August 2021-now
+      description: Participated in outreach programs for domestic and sexual violence awareness, LGBTQ+ inclusion, and community education and empowerment initiatives.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
