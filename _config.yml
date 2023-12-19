@@ -5,7 +5,7 @@
 title: Karuna Hengaju # the website title (if blank, full name will be used instead)
 first_name: Karuna
 middle_name: 
-last_name: hengaju
+last_name: Hengaju
 email: karunahengaju@u.boisestate.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for Karuna Hengaju. Based on [*folio](https://github.com/bogoli/-folio) design.
