@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
+title: 
 description: a project with no image
-img:
+img: assets/img/food_distribution.jpeg
 importance: 4
 category: community
 ---
