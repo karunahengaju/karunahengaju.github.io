@@ -14,19 +14,31 @@ Nepalese Student Association has been an integral part of my journey in USA. Whi
         {% include figure.html path="assets/img/nsa/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nsa/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/nsa/4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<div class="row justify-content-sm-center">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/feed_the_funnel/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/feed_the_funnel/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/feed_the_funnel/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<!-- <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/nsa/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nsa/4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/nsa/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     
-</div>
+</div> -->
 <div class="caption">
     Glimpses of different events organized by NSA.
 </div>
