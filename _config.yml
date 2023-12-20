@@ -262,7 +262,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['time management', 'finance', 'marketing', 'ai'] # these tags will be displayed on the front page of your blog
-display_categories: ['business','technology'] # these categories will be displayed on the front page of your blog
+display_categories: ['business','technology','life'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
