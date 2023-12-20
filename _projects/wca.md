@@ -7,7 +7,7 @@ importance: 4
 category: community
 ---
 
-I participated in outreach programs for domestic and sexual violence awareness, LGBTQ+ inclusion, and community education and empowerment initiatives.
+I participated in outreach programs for domestic and sexual violence awareness, LGBTQ+ inclusion, and community education and empowerment initiatives during Idaho Shakespeare Festival and Boise Pride Festival.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
