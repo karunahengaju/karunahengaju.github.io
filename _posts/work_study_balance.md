@@ -7,6 +7,7 @@ tags: time management
 categories: life
 thumbnail: assets/img/work_life/work_life_balance.jpeg
 ---
+Coming soon !
 <!-- This is an example post with image galleries. -->
 <!-- Reference for cover image:https://empowerhr.com/6-ways-improve-to-work-life-balance-for-employees/ -->
 
