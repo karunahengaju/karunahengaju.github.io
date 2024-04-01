@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Successfully organized Nepali Night 2024 - a cultural event
-date: 2024-03-27 16:11:00-0400
+date: 2024-03-30 16:11:00-0400
 inline: false
 related_posts: false
 ---
